@@ -41,3 +41,6 @@ Run `npm run zip` to build as above, then zip HTML and images for easy deploymen
 
 ## Deploy To GH Pages
 Run `gulp deploy` to deploy static html files to gh-pages
+
+
+### stay frosty
